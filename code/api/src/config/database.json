@@ -1,17 +1,20 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "crate",
-    "host": "127.0.0.1",
+    "username": "waelcart",
+    "password": "Tj2z?-tScpC2",
+   "database": "waelcart",
+    "host": "den1.mssql8.gear.host",
+    "port":3309,
     "dialect": "mysql",
     "seederStorage": "sequelize"
+   
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "crate",
-    "host": "127.0.0.1",
+    "username": "waelcart",
+    "password": "Tj2z?-tScpC2",
+    "database": "waelcart",
+    "host": "den1.mssql8.gear.host",
+    "port":3309,
     "dialect": "mysql",
     "seederStorage": "sequelize"
   }
